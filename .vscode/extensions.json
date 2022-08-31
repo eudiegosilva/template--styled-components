@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "styled-components.vscode-styled-components",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "mhutchie.git-graph",
+    "naumovs.color-highlight",
+    "PKief.material-icon-theme",
+  ]
+}
